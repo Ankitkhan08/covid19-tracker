@@ -6,8 +6,8 @@ const Footer = () => {
     <Box display="flex" flexDirection="row" mt={6} justifyContent="center">
       <Typography paragraph style={{ color: "grey", marginRight: 10 }}>
         &copy; Copyright {new Date().getFullYear()} By{" "}
-        <a href="https://harshverma.netlify.app/" className="footer-dev-link">
-          Harsh Verma
+        <a href="#" className="footer-dev-link">
+          Ankit Khan
         </a>
       </Typography>
     </Box>

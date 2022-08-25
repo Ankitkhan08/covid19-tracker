@@ -94,7 +94,7 @@ const Appbar = () => {
               >
                 {"Country"}
               </Button>
-              <Button
+              {/* <Button
                 variant="contained"
                 color="secondary"
                 size="large"
@@ -103,7 +103,7 @@ const Appbar = () => {
                 href="https://github.com/harshverma036/covid-19-tracker.git"
               >
                 {"Contribute"}
-              </Button>
+              </Button> */}
             </Box>
           </Hidden>
           <Hidden mdUp>
